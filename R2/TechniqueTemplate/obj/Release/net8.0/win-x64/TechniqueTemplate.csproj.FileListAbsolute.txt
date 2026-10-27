@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\bin\Release\net8.0\win-x64\DefaultWorker.deps.json
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\bin\Release\net8.0\win-x64\DefaultWorker.dll
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\bin\Release\net8.0\win-x64\DefaultWorker.pdb
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net8.0\win-x64\TechniqueTemplate.GeneratedMSBuildEditorConfig.editorconfig
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net8.0\win-x64\TechniqueTemplate.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net8.0\win-x64\TechniqueTemplate.AssemblyInfo.cs
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net8.0\win-x64\TechniqueTemplate.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net8.0\win-x64\TechniqueTemplate.sourcelink.json
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net8.0\win-x64\DefaultWorker.dll
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net8.0\win-x64\refint\DefaultWorker.dll
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net8.0\win-x64\DefaultWorker.pdb
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net8.0\win-x64\ref\DefaultWorker.dll

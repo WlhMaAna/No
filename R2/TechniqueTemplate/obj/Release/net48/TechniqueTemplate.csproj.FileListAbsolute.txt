@@ -1,0 +1,10 @@
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net48\TechniqueTemplate.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net48\TechniqueTemplate.GeneratedMSBuildEditorConfig.editorconfig
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net48\TechniqueTemplate.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net48\TechniqueTemplate.AssemblyInfo.cs
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net48\TechniqueTemplate.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net48\TechniqueTemplate.sourcelink.json
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\bin\Release\net48\svc.dll
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\bin\Release\net48\svc.pdb
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net48\svc.dll
+\\vmware-host\Shared Folders\R2\TechniqueTemplate\obj\Release\net48\svc.pdb

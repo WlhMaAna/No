@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "InCLRzPTWgg=",
+  "success": true,
+  "projectFilePath": "\\\\vmware-host\\Shared Folders\\R2\\TechniqueTemplate\\TechniqueTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kuro\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.29\\microsoft.dotnet.ilcompiler.8.0.29.nupkg.sha512",
+    "C:\\Users\\Kuro\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.29\\microsoft.net.illink.tasks.8.0.29.nupkg.sha512",
+    "C:\\Users\\Kuro\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.29\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.29.nupkg.sha512",
+    "C:\\Users\\Kuro\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Kuro\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.29\\microsoft.netcore.app.runtime.win-x64.8.0.29.nupkg.sha512",
+    "C:\\Users\\Kuro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Kuro\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.29\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.29.nupkg.sha512",
+    "C:\\Users\\Kuro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Kuro\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.29\\microsoft.aspnetcore.app.runtime.win-x64.8.0.29.nupkg.sha512",
+    "C:\\Users\\Kuro\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.29\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
