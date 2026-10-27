@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZF3nLsm6VM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pfe\\Documents\\Respawn\\Respawn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pfe\\.nuget\\packages\\interop.iwshruntimelibrary\\1.0.1\\interop.iwshruntimelibrary.1.0.1.nupkg.sha512",
+    "C:\\Users\\pfe\\.nuget\\packages\\system.codedom\\10.0.4\\system.codedom.10.0.4.nupkg.sha512",
+    "C:\\Users\\pfe\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.2\\system.diagnostics.eventlog.9.0.2.nupkg.sha512",
+    "C:\\Users\\pfe\\.nuget\\packages\\system.management\\10.0.4\\system.management.10.0.4.nupkg.sha512",
+    "C:\\Users\\pfe\\.nuget\\packages\\taskscheduler\\2.12.2\\taskscheduler.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
